@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "kolt.zar"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "monolith",
+    "baseName": "fsl",
+    "packageName": "kolt.zar",
+    "packageFolder": "kolt/zar",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MGJlMzRkZjQyN2Y5NzBhODU2MjU2NWJkNWYzYjNkNjQzOWVlYTdkMWY5YWJmNTcxOWNlMTY5OGI1MzNiYjRhMWIxYWEzZWNhYmY5YjQ0MDQ3NDc0MWNiYTBkMDgwZGI5ZTVlODkxMzY1Zjg0NGU3NDI5ZTdmZDBlYjc3ODA5YTY=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
